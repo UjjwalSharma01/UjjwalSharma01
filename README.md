@@ -52,17 +52,7 @@ My ultimate goal is to build a startup that positively impacts the lives of mill
 </p>
 
 ### Other Profiles
-
-<p align="center">
-  <a href="https://www.codechef.com/users/ujjwalsharma01">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/ujjwalsharma01">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sharma_ujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" />
-  </a>&nbsp;&nbsp;
+<p>
   <a href="https://www.leetcode.com/sharma_ujjwal">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
   </a>&nbsp;&nbsp;
